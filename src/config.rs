@@ -100,7 +100,7 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["desk.wetoolfaka.com"];
+pub const RENDEZVOUS_SERVERS: &[&str] = &["121.127.241.76"];
 pub const RS_PUB_KEY: &str = "1DzMziqEe+wE7ktapAIVHWjbmSZZvCqPtSW6jtBi2EA=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
